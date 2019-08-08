@@ -1,0 +1,10 @@
+name: ResourceSpawner
+author: cunzai
+version: 0.1
+main: me.cunzai.resourcespawner.RS
+commands:
+  rs:
+    aliases:
+      - resourcespawner
+      - resourcesspwner
+    description: 设置出生点
